@@ -22,7 +22,7 @@
       
       🚘 "ComprandoUnUsado" Actualmente en desarrollo, es un sitio web/blog creado con el proposito de proveer informacion util y ayudar a cualquiera que este buscando empezar un proceso de compra-venta de un auto usado. 
       
-      💻 "retenciones.py" y "percepciones.py", dos pequeños programas creados con python para agilizar la creacion de declaraciones juradas para Ingresos Brutos en AFIP.
+      💻 "Agip-angular", es una pequeña aplicacion web creada con Angular para agilizar el formateo de las retenciones y percepciones para las declaraciones juradas de Ingresos Brutos de AFIP. Comenzo siendo una aplicacion creada en python, y luego fue re-creada en typescript para poder publicarla en firebase y permitir para su libre utilizacion.
       
 --------------------------------------------------------------🇬🇧  English  🇺🇸----------------------------------------------------------
 
@@ -47,4 +47,4 @@
       
       🚘 "ComprandoUnUsado" A blog-website where the purpose is to provide useful information to help anyone on the buying-selling process of a used car. 
       
-      💻 "retenciones.py" and "percepciones.py", two small python programs to fasten the creation of documents needed for presentation at the AFIP.
+      💻 "Agip-Angular" little web application created with Angular, to speed up the restructuring of retenciones and percepciones for the Gross Income   tax declaration of AFIP. It started being a python application, then it was recreted in typescript to be able to deploy it on firebase and let other people use it freely.
