@@ -33,8 +33,9 @@
      
 - 🧠  I’m currently developing web applications using Angular for frontend changes and Springboot for backend development.
 
-- 📫  How to reach me :
-    - Email : oca_a@outlook.com.ar
+- 📫  `How to reach me :`
+   ```
+   - Email : oca_a@outlook.com.ar
     - Phone : +54 011 57013158
     - LinkedIn : https://www.linkedin.com/in/agustin-ocampo-5684b8182/
     - Instagram : agus_ocampo145
