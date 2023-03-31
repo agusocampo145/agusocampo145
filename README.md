@@ -1,6 +1,6 @@
 ------------------------------------------------------------- 🇦🇷  Español 🇪🇸 ---------------------------------------------------------
 
-- 👋 ¡Hola!, Soy @agusocampo145
+- 👋 ¡Hola!, **Soy @agusocampo145**
   
 - 👀  Me encanta crear projectos innovadores! Siempre estoy intentando aprender algo nuevo y aplicar todos mis conocimientos ante nuevos desafios.
    
@@ -9,11 +9,13 @@
 - 🧠 Actualmente, me encuentro desarollando Aplicaciones web utilizando las tecnologias de Angular para el frontend y SpringBoot para el desarrollo del backend.
 
 
-- 📫  Como contactarme :
+- 📫  `Como contactarme :`
+    ```
     - Email : oca_a@outlook.com.ar
     - Telefono : +54 011 57013158
     - LinkedIn : https://www.linkedin.com/in/agustin-ocampo-5684b8182/
     - Instagram : agus_ocampo145
+    ```
     
  - Mis projectos actuales : 
  
@@ -23,7 +25,7 @@
       
 --------------------------------------------------------------🇬🇧  English  🇺🇸----------------------------------------------------------
 
-- 👋  Hi, I’m @agusocampo145
+- 👋  Hi, **I’m @agusocampo145**
   
 - 👀  I’m interested in creating innovating things! Always looking forward to learn new things and apply all my knowledge on new challenges
   
