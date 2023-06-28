@@ -19,7 +19,7 @@
     
  - Mis projectos actuales : 
  
-      🏢 "Andes Verdes". Fue mi primer sitio web, creado hace unos años atras, para una inmobiliaria. En este proyecto tambien realize el branding de la empresa (creacion y diseño de nombre y logo o imagen representativa).
+      🛒 "ZS store, Showroom en desarrollo para los diversos tipos de productos ofrecidos por mi y mi marca personal 'ZS Spotter', desarrollada con angular para el frontend por el momento, y proximamente el backend, que sera desarrollado utilizando springboot.
       
       💻 "Agip-angular", es una pequeña aplicacion web creada con Angular para agilizar el formateo de las retenciones y percepciones para las declaraciones juradas de Ingresos Brutos de AFIP. Comenzo siendo una aplicacion creada en python, y luego fue re-creada en typescript para poder publicarla en firebase y permitir para su libre utilizacion.
       
@@ -35,13 +35,13 @@
 
 - 📫  `How to reach me :`
    ```
-   - Email : oca_a@outlook.com.ar
+    - Email : oca_a@outlook.com.ar
     - Phone : +54 011 57013158
     - LinkedIn : https://www.linkedin.com/in/agustin-ocampo-5684b8182/
     - Instagram : agus_ocampo145
     
  - My latest projects : 
  
-      🏢 "Andes Verdes" My first ever website, made some years ago, for a real state agency, I also developed the branding, name and logo design of the agency. 
+      🛒 "ZS store", Showroom actually in development for the variety of products offered by me and my personal division 'ZS spotter', developed with Angular for the frontend, and soon to be developed the backend with springboot.
       
       💻 "Agip-Angular" little web application created with Angular, to speed up the restructuring of retenciones and percepciones for the Gross Income   tax declaration of AFIP. It started being a python application, then it was recreted in typescript to be able to deploy it on firebase and let other people use it freely.
