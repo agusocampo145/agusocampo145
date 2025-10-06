@@ -40,7 +40,7 @@ Desarrollado con **Chromedriver**, **Tkinter** y **PyInstaller**; versión beta 
 ```
 📧 Email: oca_a@outlook.com.ar  
 📞 Teléfono: +54 011 5701 3158  
-🔗 LinkedIn: https://www.linkedin.com/in/agustin-ocampo-5684b8182/  
+🔗 [LinkedIn]: (https://www.linkedin.com/in/agustin-ocampo-5684b8182/)  
 📷 Instagram: @agus_ocampo145  
 ```
 
