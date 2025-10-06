@@ -38,7 +38,7 @@ Desarrollado con **Chromedriver**, **Tkinter** y **PyInstaller**; versión beta 
 
 ### 📬 Cómo contactarme
 
-🔗 [LinkedIn]([https://www.linkedin.com/in/agustin-ocampo-5684b8182/](https://www.linkedin.com/in/agust%C3%ADn-ocampo-5684b8182/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/agust%C3%ADn-ocampo-5684b8182/)  
 
 ```
 📧 Email: oca_a@outlook.com.ar  
@@ -88,7 +88,7 @@ Developed with **Chromedriver**, **Tkinter**, and **PyInstaller**; currently ava
 
 ### 📬 Contact Me
 
-🔗 [LinkedIn]([https://www.linkedin.com/in/agustin-ocampo-5684b8182/](https://www.linkedin.com/in/agust%C3%ADn-ocampo-5684b8182/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/agust%C3%ADn-ocampo-5684b8182/)  
 
 ```
 📧 Email: oca_a@outlook.com.ar  
