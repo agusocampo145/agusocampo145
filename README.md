@@ -111,8 +111,6 @@ Developed with **Chromedriver**, **Tkinter**, and **PyInstaller**; currently ava
 <p align="center">Thanks for stopping by 👋<br><br> — Agustín Ocampo 🐼</p>
 
 ---
-🇪🇸 Versión en español (mejorada y más concisa)
-
 ⬇️⬇️⬇️⬇️ ¿Dónde están mis commits?! 😧
 No desesperen 💆🏽‍♂️
 
@@ -121,8 +119,6 @@ Por eso, suelo desarrollar mucho localmente y luego subir grandes actualizacione
 
 📈 Debajo dejo un pantallazo de mi actividad en mi GitHub laboral (privado), donde tengo la mayor parte de mis contribuciones diarias.
 (Pequeño detalle: a comienzos del año migramos del GitHub empresarial al normal, por eso esos meses no aparecen reflejados) 😉
-
-🇬🇧 English version
 
 ⬇️⬇️⬇️⬇️ Where are all my commits?! 😧
 Don’t panic 💆🏽‍♂️
