@@ -108,15 +108,30 @@ Developed with **Chromedriver**, **Tkinter**, and **PyInstaller**; currently ava
 
 <p align="center">Gracias por pasar 👋<br>
 
-<p align="center">Thanks for stopping by 👋<br> — Agustín Ocampo 🐼</p>
+<p align="center">Thanks for stopping by 👋<br><br> — Agustín Ocampo 🐼</p>
 
 ---
-⬇️⬇️⬇️⬇️
-Donde estan mis commits?!😧 Porque tan pocos cambios?😭 No desesperen 💆🏽‍♂️
+🇪🇸 Versión en español (mejorada y más concisa)
 
-Este github es mi **espacio personal**, en el que trabajo en espacios libre entre mi trabajo, el estudio y la rutina, por lo que no estoy constantemente haciendo cambios, normalmente los cambios al ser en mi espacio personal, los desarrollo mucho localmente y luego son subidos en un paquete grande a github, en un solo commit.
+⬇️⬇️⬇️⬇️ ¿Dónde están mis commits?! 😧
+No desesperen 💆🏽‍♂️
 
-Debajo, dejo un print sobre mi actividad, en mi github laboral, el cual no es publico, pero sobre el que mas actividad tengo registrada diariamente. (Nuevamente una aclaracion, a principio de año se mudo de github empresarial a github normal, por lo que esos meses no estan incluidos en estos registros)
+Este GitHub es mi espacio personal, donde trabajo en mis tiempos libres entre el trabajo, la universidad y la rutina.
+Por eso, suelo desarrollar mucho localmente y luego subir grandes actualizaciones en un solo commit.
+
+📈 Debajo dejo un pantallazo de mi actividad en mi GitHub laboral (privado), donde tengo la mayor parte de mis contribuciones diarias.
+(Pequeño detalle: a comienzos del año migramos del GitHub empresarial al normal, por eso esos meses no aparecen reflejados) 😉
+
+🇬🇧 English version
+
+⬇️⬇️⬇️⬇️ Where are all my commits?! 😧
+Don’t panic 💆🏽‍♂️
+
+This GitHub is my personal space, where I work on projects during free moments between my job, university, and daily life.
+That’s why I usually do most of my development locally and then upload larger updates in single commits.
+
+📈 Below is a snapshot of my activity on my work GitHub (private), where most of my daily commits are made.
+(Fun fact: earlier this year we migrated from an enterprise GitHub to a standard one — those months didn’t carry over) 😉
 
 <p align="center">
   <img src="https://github.com/agusocampo145/agusocampo145/blob/main/Github%20log.png" alt="GitHub Header" width="800"/>
