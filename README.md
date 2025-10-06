@@ -102,6 +102,6 @@ Developed with **Chromedriver**, **Tkinter**, and **PyInstaller**; currently ava
 
 ---
 
-<p align="center">Gracias por pasar 👋<br>— Agustín Ocampo 🐼</p>
+<p align="center">Gracias por pasar 👋<br>
 
-<p align="center">Thanks for stopping by 👋<br>— Agustín Ocampo 🐼</p>
+<p align="center">Thanks for stopping by 👋<br> — Agustín Ocampo 🐼</p>
