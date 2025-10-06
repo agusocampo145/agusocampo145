@@ -19,7 +19,7 @@
     
  - Mis projectos actuales : 
  
-      🛒 "ZS store, Showroom en desarrollo para los diversos tipos de productos ofrecidos por mi y mi marca personal 'ZS Spotter', desarrollada con angular para el frontend por el momento, y proximamente el backend, que sera desarrollado utilizando springboot.
+      🛒 "ZS Portfolio" , portfolio con pequeña presentacion personal, y presentcion de mi marca personal 'ZSteam', desarrollada en Angular.
       
       💻 "Agip-angular", es una pequeña aplicacion web creada con Angular para agilizar el formateo de las retenciones y percepciones para las declaraciones juradas de Ingresos Brutos de AFIP. Comenzo siendo una aplicacion creada en python, y luego fue re-creada en typescript para poder publicarla en firebase y permitir para su libre utilizacion.
       
@@ -42,6 +42,6 @@
     
  - My latest projects : 
  
-      🛒 "ZS store", Showroom actually in development for the variety of products offered by me and my personal division 'ZS spotter', developed with Angular for the frontend, and soon to be developed the backend with springboot.
+      🛒 "ZS portfolio" , small porfolio and presentation page about me and my personal brand 'ZSteam', developed with Angular.
       
       💻 "Agip-Angular" little web application created with Angular, to speed up the restructuring of retenciones and percepciones for the Gross Income   tax declaration of AFIP. It started being a python application, then it was recreted in typescript to be able to deploy it on firebase and let other people use it freely.
