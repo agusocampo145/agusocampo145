@@ -116,6 +116,11 @@ Donde estan mis commits?!😧 Porque tan pocos cambios?😭 No desesperen 💆�
 
 Este github es mi **espacio personal**, en el que trabajo en espacios libre entre mi trabajo, el estudio y la rutina, por lo que no estoy constantemente haciendo cambios, normalmente los cambios al ser en mi espacio personal, los desarrollo mucho localmente y luego son subidos en un paquete grande a github, en un solo commit.
 
-Debajo, dejo un print sobre mi actividad, en mi github laboral, el cual no es publico, pero sobre el que mas actividad tengo registrada diariamente.
+Debajo, dejo un print sobre mi actividad, en mi github laboral, el cual no es publico, pero sobre el que mas actividad tengo registrada diariamente. (Nuevamente una aclaracion, a principio de año se mudo de github empresarial a github normal, por lo que esos meses no estan incluidos en estos registros)
+
+<p align="center">
+  <img src="https://github.com/agusocampo145/agusocampo145/blob/main/Github%20log.png" alt="GitHub Header" width="800"/>
+</p>
+
 
 
