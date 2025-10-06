@@ -109,3 +109,13 @@ Developed with **Chromedriver**, **Tkinter**, and **PyInstaller**; currently ava
 <p align="center">Gracias por pasar 👋<br>
 
 <p align="center">Thanks for stopping by 👋<br> — Agustín Ocampo 🐼</p>
+
+---
+⬇️⬇️⬇️⬇️
+Donde estan mis commits?!😧 Porque tan pocos cambios?😭 No desesperen 💆🏽‍♂️
+
+Este github es mi **espacio personal**, en el que trabajo en espacios libre entre mi trabajo, el estudio y la rutina, por lo que no estoy constantemente haciendo cambios, normalmente los cambios al ser en mi espacio personal, los desarrollo mucho localmente y luego son subidos en un paquete grande a github, en un solo commit.
+
+Debajo, dejo un print sobre mi actividad, en mi github laboral, el cual no es publico, pero sobre el que mas actividad tengo registrada diariamente.
+
+
